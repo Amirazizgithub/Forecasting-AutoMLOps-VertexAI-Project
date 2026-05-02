@@ -1,0 +1,14 @@
+# requirements.txt
+# Dependencies for kfp, Vertex AI SDK, and custom components
+black
+fastapi
+kfp>=2.0.0
+google-cloud-aiplatform
+google-cloud-storage
+google-api-core
+httpx
+pandas
+pytest
+joblib
+db-dtypes
+uvicorn
