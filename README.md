@@ -1,6 +1,6 @@
 # Auto-Forecasting MLOps Pipeline 🚀
 
-A comprehensive MLOps pipeline for time series forecasting using Vertex AI, Kubeflow Pipelines, and FastAPI. This project implements end-to-end machine learning workflows for sales and revenue forecasting with Prophet, ARIMA/SARIMAX, and Exponential Smoothing models, with inventory consumption projection capabilities.
+A comprehensive MLOps pipeline for time series forecasting using Vertex AI, Kubeflow Pipelines, and FastAPI. This project implements end-to-end machine learning workflows for sales and revenue forecasting, and inventory forecasting and notify to client with Prophet, ARIMA/SARIMAX, and Exponential Smoothing models, with inventory consumption projection capabilities.
 
 ## 🏗️ Architecture Overview
 
