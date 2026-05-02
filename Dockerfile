@@ -2,7 +2,7 @@
 FROM python:3.10-slim
 
 # Set the working directory inside the container
-WORKDIR /auto-regression-mlops
+WORKDIR /auto-forecasting-mlops
 
 # Copy the requirements file into the container
 COPY requirements.txt .
